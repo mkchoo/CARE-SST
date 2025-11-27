@@ -1,7 +1,7 @@
 CARE-SST: Context-Aware Reconstruction Diffusion Model for Sea Surface Temperature
 - https://doi.org/10.1016/j.isprsjprs.2025.01.001
 
-<img width="1823" height="809" alt="image" src="https://github.com/user-attachments/assets/c25a8cc7-47c2-40a3-83eb-94c72b052cd9" />
+<img width="1755" height="773" alt="image" src="https://github.com/user-attachments/assets/1910371a-08ed-4d28-ab83-a78eb27a7b76" />
 
 Data source: 
 - https://podaac.jpl.nasa.gov/dataset/L3S_LEO_PM-STAR-v2.80, 
